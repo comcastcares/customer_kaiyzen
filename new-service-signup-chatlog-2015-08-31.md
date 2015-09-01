@@ -138,5 +138,42 @@ Ashley: A modem is required to connect Internet service in your home and right n
 You: "You: any other questions before we can actually get some details?"
 You: .
 You: .
+You: .
+Ashley: I know you are considering specific service; however, right now we have Triple Play Bundles that will give you one bill for all 3 services and more savings. I'd be happy to give you more information on those. Would you like to know more about our Triple Play packages?
+Ashley: Are you still with me?
+Ashley: How are things coming along?
+Ashley: I would be happy to assist you today, however I'm afraid that if I don't hear from you I will not be able to stay and keep this chat open.
+You: was waiting for your reply
+You: you gave info on the modem.., then disappeared for 7 mins again
+You: unless pricing is going to be same or cheaper double play is fine
+Ashley: I know you are considering specific service; however, right now we have Triple Play Bundles that will give you one bill for all 3 services and more savings. I'd be happy to give you more information on those. Would you like to know more about our Triple Play packages?
+You: uh..,
+You: "You: unless pricing is going to be same or cheaper double play is fine"
+Ashley: Great thing about Xfinity is giving you substantial savings once you purchase more than a single service or getting the higher tier packages.
+You: would double play be considered more than single service?
+You: .
+You: .
+You: .
+You: .
+You: .
+Ashley: Yes, Double Play is more than a single service.
+You: what does your script say to ask next?
+You: .
+You: .
+You: .
+You: .
+You: .
+Ashley: I apologize for the delay.
+You: are you playing solitaire in the background?
+You: tick tock, tick tock
+You: .
+You: .
+You: .
+You: .
+You: .
+You: .
+You: anyone home?
+You: .
 You: . 
+
 ```
