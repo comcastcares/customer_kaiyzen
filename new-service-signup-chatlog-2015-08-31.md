@@ -1,12 +1,11 @@
 #Support Session Date: August 31st, 2015
 ##Reason: singing up for new service
-###Session Length: ~2+hrs
+###Session Length: ~3 hrs
 ###Support Rep: Ashley (#4221458)
 
 Notes:
 
-todo...
-
+Looks like rep finally dropped off around the 3 hr mark even though session still active.  Still received zero package details, did get one offer from the rep to provide a link to online pages where I could research options that might fit my needs.  Ended doing two phone sessions and signing up on a no-term contract.
 
 
 ```
@@ -125,7 +124,7 @@ Ashley: May I ask what Internet stuff are you referring?
 Ashley: You won't lose me, as long as you won't accidentally hit the 'x' button of this chat window.
 You: can i still get your service rep#?
 You: "stuff" as in email, video streaming, remote desktop access, code commits, file syncing, voip, etc, etc
-Ashley: This is my service rep number 4221458.
+**Ashley: This is my service rep number 4221458.**
 You: thanks
 Ashley: You're most welcome! It's my pleasure to assist you in the best way I can.
 You: let me know when you finish with the other customers, we can get back to figuring out if there is a service package option(s) i can use
