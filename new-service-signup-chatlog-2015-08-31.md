@@ -173,6 +173,22 @@ You: .
 You: .
 You: anyone home?
 You: .
-You: . 
+You: .
+You: .
+You: session still appears active.., any rep there?
+Ashley: .
+You: you back from break time?
+Ashley: I'm not playing any solitaire.
+You: me thinks your rep productivity score wont be so hot for the week, you are on pace for maybe 2 customers today..,
+You:  any chance some actual package info exists on your screen somewhere
+You: ?
+Ashley: I apologize for the inconvenience, however, you can place your order through our phone sales team at 1-855-753-8265.
+Ashley: Our Sales team is available Monday through Saturday, 8 AM to 8PM and on Sunday between the hours of 8 AM and 7PM.
+Ashley: Did you have any additional questions that I may address?
+You: so after 3.5 hrs.., what you are telling me you cant provide any package information, and i should use phone support instead?
+You: that probably could have been brought to my attention 3 hrs and 20+ mins ago after your welcome msg
+Ashley: As much as I would like to help you, I apologize for the inconvenience since my resources is limited. I feel so awful of being unhelpful to you. That's why I highly recommend communicating to our Local Sales Team for you to be properly assisted.
+You: okay.., thanks for your help and working with the tools Comcast has given you..,
+You: will see if phone support has anything more to offer
 
 ```
