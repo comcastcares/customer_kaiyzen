@@ -1,7 +1,13 @@
-#Chat Log: August 31st, 2015
-##Singing up for new service
-###Support Chat Session ~2+hrs
+#Support Session Date: August 31st, 2015
+##Reason: singing up for new service
+###Session Length: ~2+hrs
 ###Support Rep: Ashley (#4221458)
+
+Notes:
+
+todo...
+
+
 
 ```
 Ashley: Hi, I am a live Comcast product specialist. What questions can I answer for you today?
